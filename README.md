@@ -3,7 +3,7 @@
 > 双市场（A股 + Crypto）分析技能，输出可执行的结构化报告。本文档提供详细使用说明、数据源、模板、架构、思维导图、FAQ、免责声明。中文为主，附英文摘要。
 
 ---
-
+[English Version readme](#full-english-version)
 ## 目录
 1. [概览 / Overview](#概览--overview)
 2. [适用场景与优势](#适用场景与优势)
@@ -21,7 +21,7 @@
 14. [安全与合规注意事项](#安全与合规注意事项)
 15. [免责声明 / Disclaimer](#免责声明--disclaimer)
 16. [Changelog](#changelog)
-17. [Full English Version](#full-english-version)
+
 
 ---
 
