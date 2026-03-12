@@ -1,7 +1,7 @@
 # FusionAlpha A&Crypto Desk
 
 > 双市场（A股 + Crypto）分析技能，输出可执行的结构化报告。本文档提供详细使用说明、数据源、模板、架构、思维导图、FAQ、免责声明。中文为主，附英文摘要。
-> 上线clawhub,openclaw，nanobot等衍生可一键安装，[https://clawhub.ai/xinyuqinfeng/fusionalpha-acrypto-desk]，安全检查通过，<img width="421" height="135" alt="image" src="https://github.com/user-attachments/assets/61441736-c108-4c72-a861-ca2a46b4942c" />
+> 上线clawhub,openclaw，nanobot等衍生可一键安装，[点击访问](https://clawhub.ai/xinyuqinfeng/fusionalpha-acrypto-desk),安全检查通过无风险提示词,<img width="421" height="135" alt="image" src="https://github.com/user-attachments/assets/61441736-c108-4c72-a861-ca2a46b4942c" />
 
 
 ---
